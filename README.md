@@ -163,6 +163,8 @@ ager --agent
 
 ## License
 
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+
 This project is **source-visible but not open source**. All rights reserved.
 
 ✅ You may **clone and use** Ager locally  
