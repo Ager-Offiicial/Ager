@@ -1,9 +1,4 @@
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
-
-# Ager - All Rights Reserved
-# Forking or redistributing this repository is strictly prohibited and may be considered illegal.
-# License: See LICENSE.txt
-# Unauthorized use, modification, or commercial distribution is not permitted.
+![License](https://img.shields.io/badge/MIT-red)
 
 
 # Ager
@@ -170,8 +165,7 @@ ager --agent
 ```
 
 ## License
-
-![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+MIT
 
 This project is **source-visible but not open source**. All rights reserved.
 
