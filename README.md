@@ -163,4 +163,8 @@ ager --agent
 
 ## License
 
-MIT
+This project is **source-visible but not open source**. All rights reserved.
+
+✅ You may **clone and use** Ager locally  
+❌ You may **not fork, redistribute, or modify** the codebase  
+📩 Contact us for commercial or collaboration requests  
