@@ -1,10 +1,18 @@
+![License](https://img.shields.io/badge/license-All%20Rights%20Reserved-red)
+
+# Ager - All Rights Reserved
+# Forking or redistributing this repository is strictly prohibited and may be considered illegal.
+# License: See LICENSE.txt
+# Unauthorized use, modification, or commercial distribution is not permitted.
+
+
 # Ager
 
 An agentic coding assistant that works in your terminal using local LLMs from Ollama.
 
 ![Version](https://img.shields.io/badge/version-0.3.2-blue)
 
-## What's New in v0.3.0
+## What's New in v0.3.2
 
 
 - **Local Model Support**: Use local Ollama models with advanced agents
